@@ -10,15 +10,25 @@
     font-size:xx-large !important;
 }
 .back1 {
-   background-color: black;
+   background-color: rgb(240, 236, 22);
 }
 .back2 {
     background-color:lawngreen;
  }
 
-
+ .btn-primary {
+     background-color: black;
+ }
 
 .card {
 border-radius: 0 !important;
 
+}
+img {
+
+    margin:auto!important;
+    padding:auto !important;
+}
+.navbar-dark {
+    background-color: black !important;
 }
