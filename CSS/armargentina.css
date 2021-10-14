@@ -1,0 +1,24 @@
+.btn {
+
+    border-width: 0px !important;
+    width:auto;
+    height:auto;
+}
+.titulo 
+{
+    font-family:'Passion One', sans-serif !important;
+    font-size:xx-large !important;
+}
+.back1 {
+   background-color: black;
+}
+.back2 {
+    background-color:lawngreen;
+ }
+
+
+
+.card {
+border-radius: 0 !important;
+
+}
